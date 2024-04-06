@@ -8,7 +8,7 @@
 ## Research 
 
 - Daily Hassles, Coping and Well-Being The Moderating Role of Hemispheric Lateralization
-https://www.jneuropsychiatry.org/peer-review/daily-hassles-coping-and-wellbeing-the-moderating-role-of-hemispheric-lateralization.pdf
+[Publication](https://www.jneuropsychiatry.org/peer-review/daily-hassles-coping-and-wellbeing-the-moderating-role-of-hemispheric-lateralization.pdf)
 
 - Effects of vagal tone modulation via heart rate variability biofeedback on frontal asymmetry score, stress and mood A pilot study.
 
